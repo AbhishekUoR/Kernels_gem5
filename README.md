@@ -2,4 +2,4 @@
 
 
 
-Kernel binary is saved in Gdrive
+Kernel binaries are saved in Gdrive
